@@ -1,0 +1,16 @@
+{
+  "title": "Franco Tamil Archives | Tamil Monster",
+  "titleTemplate": "%s - Franco Tamil Archives",
+  "description": "Franco Tamil Archives -> https://francoarchives.tamil.monster/",
+  "openGraph": {
+    "type": "website",
+    "locale": "en_IE",
+    "url": "https://francoarchives.tamil.monster/",
+    "site_name": "Franco Tamil Archives"
+  },
+  "twitter": {
+    "handle": "@tamil.monster.official",
+    "site": "@tamil.monster.official",
+    "cardType": "summary_large_image"
+  }
+}
