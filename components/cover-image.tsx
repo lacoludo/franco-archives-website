@@ -17,7 +17,8 @@ const CoverImage: FC<Props> = ({ title, src, slug }) => {
       className={cn('shadow-small', {
         'hover:shadow-medium transition-shadow duration-200': slug
       })}
-      unsized={true}
+      width={2000}
+      height={1000}
     ></Image>
   )
   return (
